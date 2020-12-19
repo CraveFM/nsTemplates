@@ -2,6 +2,6 @@
 @nativeScript Templates
 
 
-| @nativeScript Templates | Location |
-|-------------------------|----------|
-| | |
+| @nativeScript Templates | --template <Location> |
+|-------------------------|-----------------------------------------------|
+| nsMusicPlayer           |  https://github.com/CraveFM/nsMusicPlayerUI   |
