@@ -10,7 +10,7 @@ https://plugins.nativescript.rocks/samples
 | nsMusicStreamingApp     | https://github.com/CraveFM/nsMusicStreamingApp | {N} 7.0.1 |
 | nsMusicPlayerUI         | https://github.com/CraveFM/nsMusicPlayerUI     | {N} 7.0.1 |
 | nsCameraApp             | https://github.com/CraveFM/nsCameraApp         | {N} 7.0.1 |
-
+| nsGesturesApp           | https://github.com/CraveFM/nsGesturesApp       | {N} 7.0.1 |
 
 
 ```
