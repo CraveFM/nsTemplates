@@ -1,0 +1,2 @@
+# nsTemplates
+@nativeScript Templates
