@@ -13,6 +13,7 @@ https://plugins.nativescript.rocks/samples
 | nsGesturesApp           | https://github.com/CraveFM/nsGesturesApp       | {N} 7.0 | |
 | nsInstagramCloneApp     | https://github.com/CraveFM/nsInstagramCloneApp | {N} 7.0 | Uses local [{N} file-system](https://docs.nativescript.org/ns-framework-modules/file-system) |
 | nsAppleCardApp          | https://github.com/CraveFM/nsAppleCardApp      | {N} 7.0 | [Animation](https://docs.nativescript.org/ui/animation-code) and [sass](https://docs.nativescript.org/ui/theme#sass-usage) |
+| nsDirectiveTouchAnimationApp | https://github.com/CraveFM/nsDirectiveTouchAnimationApp | {N} 7.0 | Structural and Attribute [Directives](https://docs.nativescript.org/angular/ui/ng-components/ng-directives) | 
 
 
 ```
