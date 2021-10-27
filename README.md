@@ -20,5 +20,6 @@ https://plugins.nativescript.rocks/samples
 $ ns create myAppName --template <Location>
 ```
 
+[:x: Why you should not use NativeScript ?](https://csimpi.medium.com/why-you-should-not-use-nativescript-76e1348a7cb4)
 
 
